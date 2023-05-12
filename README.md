@@ -7,7 +7,7 @@
 [Click here to view the Jupyter Notebook](https://github.com/richardwarepam16/BE_DL_Practicals/blob/master/lab2.ipynb)
 
 #### Lab 3: Convolutional neural network (CNN): Use MNIST Fashion Dataset and create a classifier to classify fashion clothing into categories.
-[Click here to view the Jupyter Notebook](https://github.com/richardwarepam16/BE_DL_Practicals/blob/master/lab3.ipynb)
+[Click here to view the Jupyter Notebook](https://github.com/richardwarepam16/BE_DL_Practicals/blob/master/lab3_1.ipynb)
 
 #### Lab 4: Recurrent neural network (RNN) Use the Google stock prices dataset and design a time seriesanalysis and prediction system using RNN.
 [Click here to view the Jupyter Notebook](https://github.com/richardwarepam16/BE_DL_Practicals/blob/master/lab4.ipynb)
